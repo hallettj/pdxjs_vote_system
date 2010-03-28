@@ -1,0 +1,78 @@
+[
+	{
+		"id": 1,
+		"title": "Which is the saddest kitten?",
+		"options": [
+			{
+				"id": 1,
+				"poll_id": 1,
+				"title": "Siamese"
+			},
+			{
+				"id": 3,
+				"poll_id": 1,
+				"title": "Persian"
+			},
+			{
+				"id": 3,
+				"poll_id": 1,
+				"title": "American Shorthair"
+			},
+			{
+				"id": 4,
+				"poll_id": 1,
+				"title": "Calico"
+			}
+		]
+	},	{
+		"id": 2,
+		"title": "Which is the saddest puppy?",
+		"options": [
+			{
+				"id": 5,
+				"poll_id": 2,
+				"title": "Pug"
+			},
+			{
+				"id": 6,
+				"poll_id": 2,
+				"title": "Bassett Hound"
+			},
+			{
+				"id": 7,
+				"poll_id": 2,
+				"title": "Jack Russel Terrier"
+			},
+			{
+				"id": 8,
+				"poll_id": 2,
+				"title": "Beagle"
+			}
+		]
+	},	{
+		"id": 3,
+		"title": "Which is the saddest animal?",
+		"options": [
+			{
+				"id": 9,
+				"poll_id": 3,
+				"title": "Goat"
+			},
+			{
+				"id": 10,
+				"poll_id": 3,
+				"title": "Alligator"
+			},
+			{
+				"id": 11,
+				"poll_id": 3,
+				"title": "Lemur"
+			},
+			{
+				"id": 12,
+				"poll_id": 3,
+				"title": "Snake"
+			}
+		]
+	}
+]

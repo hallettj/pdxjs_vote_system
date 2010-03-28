@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:#111;
+    color:#FFF;
+    width:80%;
+    margin:auto;
+}
+div ul{
+    margin-left:1.5em;
+}
+div ul li:hover{
+    cursor:move;
+}
+ul li{
+    line-height:30px;
+    height:30px;
+    background:#222;
+    border:1px solid #252525;
+    margin:5px 0;
+    padding:2px 5px;
+    list-style-type:decimal;
+}
+
+a.submit_vote{
+    display:inline-block;
+    padding:0.5em 1em;
+    background:#222;
+	margin:0.5em 1.5em;
+	border:1px solid;
+	border-color:#333 #222 #222 #333;
+	cursor:pointer;
+}
+a.submit_vote:hover{
+	border-color:transparent !important;
+}
+div{
+    margin:20px 0;
+    padding:10px;
+    border:1px solid #333;
+
+}
+h2{
+    margin:10px 0;
+}
